@@ -27,7 +27,7 @@ Click here to try it out
 
 📁 How to Use
 Clone the repo
-git clone https://github.com/yourusername/language-translator-tool.git
+git clone https://github.com/aditibelwal007/language-translator-tool.git
 
 Open index.html in any modern browser
 
